@@ -1,0 +1,1 @@
+<?php header( 'Location: /Story 1 - My Profile.html' ) ;  ?>
